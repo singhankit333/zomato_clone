@@ -4,7 +4,7 @@ import "./delivery.css"
 const Delivery = () => {
   return (
     <div>
-        This is Delivery.
+        This is Aashish Delivery.
     </div>
   )
 }
